@@ -1,6 +1,4 @@
-# 👩‍💻 Lokeshwari R
-
-<img src="https://github.com/lokeshwarir2.png" alt="Lokeshwari R's GitHub Profile Picture" width="150" style="border-radius: 50%;">
+# Lokeshwari R
 
 🌍 **Location**: Bangalore, India  
 📫 **Email**: [lokeshwarir801@gmail.com](mailto:lokeshwarir801@gmail.com)  
