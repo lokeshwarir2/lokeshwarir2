@@ -1,5 +1,7 @@
 # 👩‍💻 Lokeshwari R
 
+<img src="https://github.com/lokeshwarir2.png" alt="Lokeshwari R's GitHub Profile Picture" width="150" style="border-radius: 50%;">
+
 🌍 **Location**: Bangalore, India  
 📫 **Email**: [lokeshwarir801@gmail.com](mailto:lokeshwarir801@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/lokeshwarir](https://linkedin.com/in/lokeshwarir)  
@@ -33,6 +35,14 @@
 ---
 
 ## 🚀 Projects
+
+### Admission Management System  
+📅 **Jan 2024 - Present**  
+- Implemented Excel upload functionality to save data to the database.  
+- Added features to modify institutional logos dynamically.  
+- Provided tools to manage PGCET cutoff details and admission statistics based on location and gender.  
+- Integrated Google Charts to generate visual reports and graphs.  
+- Developed a comprehensive dashboard to view and edit student details efficiently.  
 
 ### Responsive E-Commerce Website with Advanced Product Filtering and Shopping Cart  
 📅 **2024 - Present**  
